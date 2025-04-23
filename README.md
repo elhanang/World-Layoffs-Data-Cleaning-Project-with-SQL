@@ -25,6 +25,7 @@ The data was gotten into a more usable format. A lot of issues in the raw data w
 **Usage**
 
 To run the SQL code:
+
 •	Open MySQL.
 
 •	Connect to the database containing the layoffs Dataset.
