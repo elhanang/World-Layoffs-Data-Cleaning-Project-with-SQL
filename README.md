@@ -4,15 +4,15 @@ World Layoffs Data Cleaning with SQL
 
 **Project Overview**
 
-This project contains data of layoffs from around the world from when COVID-19 was declared a pandemic - 11th March, 2020 to 6th March, 2023, particularly from tech companies. The project involves cleaning the data and performing Exploratory Data Analysis (EDA) to find better insights and to explore the data to find trends and patterns.
+This project contains data of layoffs from around the world from when COVID-19 was declared a pandemic - 11th March, 2020 to 6th March, 2023, particularly from tech companies. The project involves cleaning the data.
 
 **Source of Data**
 
-The data was obtained from Layoffs Dataset from around the world for a period of three years (2020-2023) on Kaggle [https://www.kaggle.com/datasets/swaptr/layoffs-2022].
+The data was obtained from 'layoffs' dataset from around the world for a period of three years (2020-2023) on Kaggle [https://www.kaggle.com/datasets/swaptr/layoffs-2022].
 
 **Tools**
 
-The tool used for this project was MySQL. This was used for both the data cleaning and EDA process.
+The tool used for this project was MySQL.
 
 **Data Cleaning Process**
 
