@@ -187,7 +187,7 @@ FROM world_layoffs.layoffs_staging2
 WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;
 
--- 4. Removing Rows ans Columns that aren't needed
+-- 4. Removing Rows and Columns that aren't needed
 
 SELECT * 
 FROM world_layoffs.layoffs_staging2;
